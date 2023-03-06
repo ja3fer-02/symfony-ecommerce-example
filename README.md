@@ -16,6 +16,11 @@ Clone or download the project in a folder and then install dependencies using co
     $ cd Symfony-ecommerce-example
     $ composer install
 ```
+Generate the SSL keys:
+
+```bash
+    $ php bin/console lexik:jwt:generate-keypair
+```
 
 create data base and run all migrations:
 
