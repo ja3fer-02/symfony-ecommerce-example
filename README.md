@@ -16,6 +16,13 @@ Clone or download the project in a folder and then install dependencies using co
     $ cd symfony-ecommerce-example
     $ composer install
 ```
+Copy .env.dist to .env.
+
+```bash
+    $ cp .env.dist .env
+
+```
+
 Generate the SSL keys:
 
 ```bash
