@@ -1,4 +1,4 @@
-# Symfony-ecommerce-example
+# symfony-ecommerce-example
 
 This is a test project for to create a REST API with JWT authentication.
 
@@ -13,7 +13,7 @@ This is a test project for to create a REST API with JWT authentication.
 Clone or download the project in a folder and then install dependencies using composer:
 
 ```bash
-    $ cd Symfony-ecommerce-example
+    $ cd symfony-ecommerce-example
     $ composer install
 ```
 Generate the SSL keys:
